@@ -1,0 +1,9 @@
+{
+  "title_de": "Umfragetool",
+  "title_en": "Survey Tool",
+  "summary_de": "Lokales, datenschutzorientiertes Umfragetool: Umfragen erstellen, per Link teilen und Ergebnisse als Balkendiagramme sehen – ohne Tracking.",
+  "summary_en": "Local, privacy-focused survey tool: create surveys, share them by link and see results as bar charts – without tracking.",
+  "description_de": "Mit dem Umfragetool erstellst du Umfragen mit Einfach- und Mehrfachauswahl, Dropdown, Bewertung von 1 bis 10 und Freitext. Jede Umfrage bekommt einen schwer erratbaren Link und ein Passwort, ein Zeitfenster legt Start und Ende fest.\n\nAntworten werden anonym gespeichert: keine IP-Adressen, keine Cookies oder Sitzungs-IDs der Teilnehmenden. Ergebnisse sieht nur, wer die Umfrage erstellt hat, live aktualisiert als Balkendiagramme.\n\nDas Tool ist eine kleine Node.js-Anwendung (Express) ohne Datenbankserver und läuft als Docker-Container.",
+  "description_en": "With the survey tool you create surveys with single and multiple choice, dropdown, a 1 to 10 rating and free text. Every survey gets a hard-to-guess link and a password; a time window defines start and end.\n\nAnswers are stored anonymously: no IP addresses, no cookies or session IDs of participants. Only the survey creator sees the results, updated live as bar charts.\n\nThe tool is a small Node.js (Express) application without a database server and runs as a Docker container.",
+  "tags": ["Umfragen", "Datenschutz", "Node.js", "Docker"]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "umfragetool-2",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lokales, datenschutzorientiertes Umfragetool (anonyme Antworten, kein Tracking)",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "test": "node --test test/"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0"
+  }
+}
